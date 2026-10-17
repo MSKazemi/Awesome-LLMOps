@@ -799,3 +799,9 @@ An awesome & curated list of the best LLMOps tools for developers.
 | [pleisto/flappy](https://github.com/pleisto/flappy)                                                     | Production-Ready LLM Agent SDK for Every Developer                                                                                | ![GitHub Badge](https://img.shields.io/github/stars/pleisto/flappy.svg?style=flat-square)                                |
 
 **[⬆ back to ToC](#table-of-contents)**
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
